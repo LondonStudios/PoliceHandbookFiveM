@@ -1,0 +1,26 @@
+This modification implements a British Police Handbook into FiveM (Server Side). The command /handbook is used to display a list of commands in the handbook. Hours of training can be done to teach individuals, but a plugin like this is needed to ensure those standards are not forgotten!
+
+This will improve roleplay quality on British policing servers with prompts such as GOWISELY (Stop & Search) easily appearing as a notification on your screen. Similarly, /arrest will prompt the full caution and /nec will list all necessities for an arrest.
+
+/arrest - Arrest Format
+/handbook - List all Commands
+/nec - PACE (Code G) - Necessities
+/tor - Traffic Offence Report
+/methane - Major Incident Declaration
+/ipp - Initial Phase Pursuit
+/136 - s136 Mental Health Act
+/ic - Identity Codes (eg, IC1/IC2)
+/wm - Warning Markers (eg, FI)
+/book - Cell Space Booking Format
+This modification is complete however updates will be published in the future improving the amount of commands and features. No bugs identified currently.
+
+Installation:
+FiveM: (Server side)
+1. Drag and drop the “policehandbook” folder into your server directory > cfx-server-data-master > resources.
+2. In "server.cfg” add a new entry: “start policehandbook”, this will start the resource.
+
+Drag and drop the “policehandbook” folder into your server directory > cfx-server-data-master > resources.
+In “server.cfg” add a new entry: “start policehandbook”, this will start the resource.
+In the future I plan to develop more British related content similar to the mod seen here, which will improve realism for British players!
+
+© 2020 - London Studios - Do not redistibute, modify/change or reupload without my obtained permission. This may be used on public/private FiveM servers and used in videos published to websites, however the source files should not be redistributed. This is for non-commercial use.
